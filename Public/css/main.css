@@ -142,17 +142,21 @@ body{
 }
 .notebox p{
     margin-top: 3%;
-    font-size: 1.2rem;
-    width: 50ch;
+    font-size: 1.3rem;
+    width: 90%;
+    letter-spacing: 0.5px;
+    
+    color: rgb(151, 151, 151);
 
 }
 .notebox a{
     display: block;
-    margin-top: 5%;
+    margin-top: 3%;
     font-size: 1.5rem;
     text-decoration: none;
     color: #f84f73;
     font-weight: bolder;
+
 }
 
 
